@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# <center>Zainab Obaid &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;Resume</center> 
 
 You can use the [editor on GitHub](https://github.com/zainabobaid/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
