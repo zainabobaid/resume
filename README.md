@@ -25,8 +25,8 @@ MushStack is a mushroom identification deck of cards that was born out of curios
 
 **Designer** @ Hykaya<br>
 `Mar 2021 - Present` <br>
-Hykaya is an app for recording and sharing bedtime stories. Designed the iOS app for alpha testing (currently developed and in testing via [TestFlight](https://testflight.apple.com/join/Sb5eNziE)).
-   - Interviewed young parents to learn about their experiences and pain points.
+Hykaya is an app for recording and sharing bedtime stories. Designed the iOS app for alpha testing for a young startup (currently developed and in testing via [TestFlight](https://testflight.apple.com/join/Sb5eNziE)).
+   - Interviewed parents to learn about their experiences and pain points.
    - Communicated with the founder and the developers.
    - _**tools**_: Figma.
 
