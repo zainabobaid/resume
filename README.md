@@ -5,13 +5,13 @@
 <br>
 <br>
 
-A UI/UX enthusiast at night an orthodontics treatment planner by day. Creator of **MushStack**. <br>
+A UI/UX enthusiast at night an orthodontics treatment planner by day. <br>
 
 <br>
 
 ## 🌓 Design Experience
 
-**Founder** @ [MushStack](https://www.mushstack.com/)<br>
+**Creator** @ [MushStack](https://www.mushstack.com/)<br>
 `Sep 2018 - Present` <br>
 MushStack is a mushroom identification deck of cards that was born out of curiosity and became a selling product on Amazon, San Francisco Exploratorium, and book stores. MushStack helps mushroom lovers to playfully identify mushrooms in nature and learn fun facts about them.
   - Researched different varieties of mushrooms; completed information collection.
