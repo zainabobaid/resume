@@ -122,4 +122,10 @@ Teaching assistant for ESL classes.
 
 ## 🎓 Education
 
+- **Google Certificate Program**: Foundations of User Experience Design. `April 2021 - Present`
+
+- **University of Washington Certificate Program**: (1) UX Design Thinking, (2) Applied UX Design, and (3) Integrating UX with Interactive Visual Design. `Jun 2021 - Aug 2021`
+
+- **Vancouver Community College (VCC)**: Dental Laboratory Technology. `Sep 2007 - Jun 2009`
+
 ## 🛠 Skills
