@@ -55,9 +55,9 @@ Hykaya is an app for recording and sharing bedtime stories. Designed the iOS app
 - Prototyped the ***RecSquad*** mobile app: Improve outdoor recreational experiences (reserve courts, plan activities, stay active). `Aug 2020`
   - Design thinking stage: collaboratively done in a team of 2.
   - _**tools**_: Figma
-- Redesigned the **MushStack** website, based on collected feedbacks, to put the visitor on a more joyful and straight forward journey to buying the product. `Sep 2020`.
+- Redesigned the **MushStack** website, based on collected feedbacks, to put the visitor on a more joyful and straight forward journey to buying the product. `Sep 2020`
   - _**tools**_: Figma, Photoshop.
-- Redesigned the **BRIUS** website (under founder supervision):  Improve the experience of the patients as well as the dr.s in the path of selecting method of treatment . `Feb 2021 - April 2021`.
+- Redesigned the **BRIUS** website (under founder supervision):  Improve the experience of the patients as well as the dr.s in the path of selecting method of treatment . `Feb 2021 - April 2021`
   - Edited the website’s content 
   - Interviewed a dentist & 4 individuals with no dental background (potential customer’s points of view)
   - _**tools**_: Figma, Photoshop.
