@@ -5,63 +5,79 @@
 <br>
 <br>
 
-A UI/UX enthusiast at night an orthodontics treatment planner by day. <br>
+**A UI/UX enthusiast at night an orthodontics treatment planner by day.** <br>
+
+Actively initiate UX/UI design projects. Currently have one UX/UI design passion project at
+hand and one proffessional project entering its user testing stage. <br>
+Created MushStack.<br>
+Initial field of study is Dental Technology and currently employed as an orthodontic treatment
+planner at a startup company.
 
 <br>
 
 ## 🌓 Design Experience
 
 **Creator** @ [MushStack](https://www.mushstack.com/)<br>
-`Sep 2018 - Present` <br>
-MushStack is a mushroom identification deck of cards that was born out of curiosity and became a selling product on Amazon, San Francisco Exploratorium, and book stores. MushStack helps mushroom lovers to playfully identify mushrooms in nature and learn fun facts about them.
-  - Researched different varieties of mushrooms; completed information collection.
-  - Professionally fact checked the information by a local mycologist.
-  - Connected to mushroom loving communities for feedback.
-  - Designed the cards iteratively; connected to a professional graphic designer for feedback.
-  - Following through with manufacturing, pricing, marketing, & sales.
-  - _**tools**_: Adobe Photoshop, Splice, iMovie, Wix, Amazon Sellers, Google Ads, and Facebook Ads.
-
+`Apr 2018 - Present` <br>
+MushStack is a mushroom identification deck of cards. Currently selling on Amazon,
+bookstores & SF Exploratorium.
+* Research,
+* Design,
+* Manufacture/ marketing & sales
+* Web design
+* ***Tools***: Adobe Photoshop, Wix, Amazon Sellers, Google Ads, Facebook Ads, Splice, iMovie.
 <br>
 
 **Designer** @ Hykaya<br>
 `Mar 2021 - Present` <br>
-Hykaya is an app for recording and sharing bedtime stories. Designed the iOS app for alpha testing for a young startup (currently developed and in testing via [TestFlight](https://testflight.apple.com/join/Sb5eNziE)).
-   - Interviewed parents to learn about their experiences and pain points.
-   - Communicated with the founder and the developers.
-   - _**tools**_: Figma.
+Hykaya is an app for recording and sharing bedtime stories. Currently on TestFlight.
+* Designed a prototype for Alpha testing
+* Interviewed young parents
+* Communicated with founders & developers 
+* ***Tools***: Figma
 
 <br>
 
 > **Projects and Prototypes**
 
-- Prototyped the ***HabitOn*** mobile app (user research included): help users to form new green habits. `Jan 2021 - Jun 2021`
-  - Design thinking stage: collaboratively done in a team of 4.
-  - Interviewed 16 participants (qualitative based).
-  - Built behavioural archetypes.
-  - Created a journey map.
-  - Brainstormed & wrote an executive summary.
-  - Ran a competitive analysis.
-  - Created 4 different concepts.
-  - Completed concept surveys with 10 participants.
-  - Finalized the UI design after multiple rounds of iteration.
-  - _**tools**_: Figma, MURAL.
-- Wireframed the ***Re-Stricted*** mobile app: Improve shopping experience for those with dietary restrictions. `Jul 2020`
-  - Researched current shopping apps present.
-  - Connected with and interviewed individuals with dietary restrictions.
-  - Created personas for potential users.
-  - Planned the needed features.
-  - Wireframed the app.
-  - _**tools**_: Powerpoint.
-- Prototyped the ***RecSquad*** mobile app: Improve outdoor recreational experiences (reserve courts, plan activities, stay active). `Aug 2020`
-  - Design thinking stage: collaboratively done in a team of 2.
-  - _**tools**_: Figma
-- Redesigned the **MushStack** website, based on collected feedbacks, to put the visitor on a more joyful and straight forward journey to buying the product. `Sep 2020`
-  - _**tools**_: Figma, Photoshop.
-- Redesigned the **BRIUS** website (under founder supervision):  Improve the experience of the patients as well as the dr.s in the path of selecting method of treatment . `Feb 2021 - April 2021`
-  - Edited the website’s content 
-  - Interviewed a dentist & 4 individuals with no dental background (potential customer’s points of view)
-  - _**tools**_: Figma, Photoshop.
+**Prototype** @ Habiton<br> 
+`Jan 2021 - Jun 2021` <br>
+Habiton is a mobile app that helps users to form new green habits.
+* Design thinking & ideation done collaboratively in a team of 4
+* Interviews, archetypes, journey map, executive summary, competitive analysis
+* UI design and prototype completed individually
+* ***Tools***: Figma, MURAL
 
+
+**Prototype** @ RecSquad<br> 
+`Aug 2020 - Sep 2020` <br>
+RecSquad is a mobile app, improving outdoor recreational experiences for users.
+* Design thinking & ideation done collaboratively in a team of 2
+* UI design and prototype completed individually
+* ***Tools***: Figma
+
+
+**Wireframe** @ Re-Stricted <br> 
+`Jun 2020` <br>
+Re-Stricted is a mobile app, improving shopping experience for those with dietary restrictions.
+* Individual project
+* Research, user personas, executive summary
+* Wireframes
+* ***Tools***: Google Slides
+
+
+**Website Redesign** @ BRIUS <br> 
+`Feb 2021 - April 2021` <br>
+Redesigned the BRIUS website, aiming to incorporate patients as the end user alongside the orthodontists.
+* Interviewed & collected feedback from orthodontists as well as potential patients
+* ***Tools***: Adobe Photoshop, Wix, Figma
+
+
+**Website Redesign** @ MushStack <br> 
+`Sep 2021 - Oct 2020` <br>
+Redesigned the MushStack website, aiming to make the user journey more joyful and straightforward.
+* Collected feedback
+* ***Tools***: Adobe Photoshop, Wix
 
 
 
@@ -91,7 +107,7 @@ Working on detal wax-ups.
 
 **Dental Lab Technician (Vancouver, BC)** @ [Solaris Dental Design]()<br> 
 `Jun 2009 - Jun 2011` <br>
-Working on detal wax-ups.
+Crown and bridge E-max specialist.
 
 
 <br>
@@ -107,7 +123,10 @@ Providing support for educated immigrants in their job search efforts.
 
 **Dorcas International Institute of Rhode Island**<br>
 `Jan 2015 - Feb 2016` <br>
-Tutoring beginner ESL to Syrian, Iraqi, Afghani, Iranian, Somali and Congolese refugees. Translating and interpreting for clients on-site, in offices and clinics, for Farsi/Dari and Arabic speakers. Involved with the clients at the refugee center on personal levels to be able to convey their concerns, problems and needs to the people in charge. Mentoring and tutoring newly arrived refugee families at home.
+* Tutoring beginner ESL to Syrian, Iraqi, Afghani, Iranian, Somali and Congolese refugees. 
+* Translating and interpreting for clients on-site, in offices and clinics, for Farsi/Dari and Arabic speakers. 
+* Involved with the clients at the refugee center on personal levels to be able to convey their concerns, problems and needs to the people in charge. 
+* Mentoring and tutoring newly arrived refugee families at home.
 
 **International Rescue Committee** <br> 
 `Jun 2016 - Jul 2016` <br>
@@ -122,10 +141,18 @@ Teaching assistant for ESL classes.
 
 ## 🎓 Education
 
-- **Google Certificate Program**: Foundations of User Experience Design. `April 2021 - Present`
+- **Google Certificate Program**  `April 2021 - Present`<br>
+Foundations of User Experience Design.
 
-- **University of Washington Certificate Program**: (1) UX Design Thinking, (2) Applied UX Design, and (3) Integrating UX with Interactive Visual Design. `Jun 2021 - Aug 2021`
+- **University of Washington Certificate Program** `Jun 2021 - Aug 2021` 
+  - UX Design Thinking,
+  - Applied UX Design
+  - Integrating UX with Interactive Visual Design. 
 
-- **Vancouver Community College (VCC)**: Dental Laboratory Technology. `Sep 2007 - Jun 2009`
+- **Vancouver Community College (VCC)** `Sep 2007 - Jun 2009`<br>
+Dental Laboratory Technology.
 
 ## 🛠 Skills
+* **Design:** Wireframing, prototyping, user research, behavioural archetype, create executive summary, conduct competitive analysis.
+* **Tools:** Figma, Wix, Wordpress, Adobe Photoshop, iMovie, MURAL.
+* **Languages:** Fluent in _English_, _Farsi_, and _Arabic_.
