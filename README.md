@@ -141,8 +141,8 @@ Teaching assistant for ESL classes.
 
 ## 🎓 Education
 
-- **Google Certificate Program**  `April 2021 - Present`<br>
-Foundations of User Experience Design.
+- **Google UX Design Professional Certificate**  `April 2021 - Present`<br>
+  - Foundations of User Experience Design.
 
 - **University of Washington Certificate Program** `Jun 2021 - Aug 2021` 
   - UX Design Thinking,
