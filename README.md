@@ -93,7 +93,7 @@ Designing and planning the stages of teeth movements.
 `May 2019 - Mar 2020` <br>
 Designing and planning the stages of teeth movements. Training new hires and Led a team of treatment planners.
 
-**Lead CAD-CAM Dental Lab Technician (San Jose, CA)** @ [Sherry Precision Dental Art](https://sherryprecision.com/)<br>
+**Lead CAD-CAM Dental Designer (San Jose, CA)** @ [Sherry Precision Dental Art](https://sherryprecision.com/)<br>
 `Aug 2018 - May 2019` <br>
 Crown and bridge CAD-CAM designer.
 
