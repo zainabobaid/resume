@@ -5,7 +5,7 @@
 <br>
 <br>
 
-**A UI/UX enthusiast at night an orthodontics treatment planner by day.** <br>
+**A UI/UX enthusiast by night and an orthodontics treatment planner by day.** <br>
 
 Actively initiate UX/UI design projects. Currently have one UX/UI design passion project at
 hand and one proffessional project entering its user testing stage. <br>
