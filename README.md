@@ -143,10 +143,11 @@ Teaching assistant for ESL classes.
 
 - **Google UX Design Professional Certificate**  `April 2021 - Present`<br>
   - Foundations of User Experience Design.
+  - Start the UX Design Process: Empathize, Define, and Ideate.
 
 - **University of Washington Certificate Program** `Jun 2021 - Aug 2021` 
-  - UX Design Thinking,
-  - Applied UX Design
+  - UX Design Thinking.
+  - Applied UX Design.
   - Integrating UX with Interactive Visual Design. 
 
 - **Vancouver Community College (VCC)** `Sep 2007 - Jun 2009`<br>
