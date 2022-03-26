@@ -145,6 +145,7 @@ Teaching assistant for ESL classes.
   - Foundations of User Experience Design.
   - Start the UX Design Process: Empathize, Define, and Ideate.
   - Build Wireframes and Low-Fidelity Prototypes
+  - Conduct UX Research and Test Early Concepts
 
 - **University of Washington Certificate Program** `Jun 2021 - Aug 2021` 
   - UX Design Thinking.
